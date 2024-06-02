@@ -1,0 +1,58 @@
+[24-May-2024 20:17:16 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[25-May-2024 00:08:46 UTC] PHP Warning:  Undefined array key "foto" in /home/gojogjak/public_html/Admin/header.php on line 25
+[25-May-2024 00:08:46 UTC] PHP Warning:  Undefined array key "nama" in /home/gojogjak/public_html/Admin/header.php on line 30
+[25-May-2024 00:08:50 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[25-May-2024 00:10:56 UTC] PHP Warning:  Undefined array key "foto" in /home/gojogjak/public_html/Admin/header.php on line 25
+[25-May-2024 00:10:56 UTC] PHP Warning:  Undefined array key "nama" in /home/gojogjak/public_html/Admin/header.php on line 30
+[25-May-2024 00:11:00 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[25-May-2024 01:03:16 UTC] PHP Warning:  Undefined array key "nama" in /home/gojogjak/public_html/Admin/header.php on line 30
+[25-May-2024 01:03:24 UTC] PHP Warning:  Undefined array key "nama" in /home/gojogjak/public_html/Admin/header.php on line 30
+[25-May-2024 01:23:25 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[25-May-2024 01:23:30 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[25-May-2024 01:23:43 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[25-May-2024 02:07:06 UTC] PHP Warning:  Undefined array key "nama" in /home/gojogjak/public_html/Admin/header.php on line 30
+[25-May-2024 02:33:38 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[25-May-2024 02:34:45 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[25-May-2024 02:43:32 UTC] PHP Warning:  Undefined array key "nama" in /home/gojogjak/public_html/Admin/header.php on line 30
+[25-May-2024 02:43:58 UTC] PHP Warning:  Undefined array key "nama" in /home/gojogjak/public_html/Admin/header.php on line 30
+[25-May-2024 02:44:08 UTC] PHP Warning:  Undefined array key "nama" in /home/gojogjak/public_html/Admin/header.php on line 30
+[25-May-2024 02:44:21 UTC] PHP Warning:  Undefined array key "nama" in /home/gojogjak/public_html/Admin/header.php on line 30
+[25-May-2024 02:44:28 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[25-May-2024 02:44:51 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[25-May-2024 02:44:58 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[25-May-2024 02:55:17 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[25-May-2024 04:36:25 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[25-May-2024 04:36:41 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[25-May-2024 04:37:22 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[25-May-2024 04:38:28 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[25-May-2024 08:00:23 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[25-May-2024 11:37:58 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[25-May-2024 15:00:12 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[26-May-2024 09:59:30 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[26-May-2024 09:59:38 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[26-May-2024 10:02:39 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[26-May-2024 10:02:47 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[26-May-2024 13:52:17 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[26-May-2024 13:54:19 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[26-May-2024 13:56:18 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[26-May-2024 13:56:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND pass_admin = ''' at line 2 in /home/gojogjak/public_html/class/admin.php:17
+Stack trace:
+#0 /home/gojogjak/public_html/class/admin.php(17): mysqli_query()
+#1 /home/gojogjak/public_html/Admin/index.php(24): admin->login_admin()
+#2 {main}
+  thrown in /home/gojogjak/public_html/class/admin.php on line 17
+[26-May-2024 13:56:36 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[26-May-2024 13:56:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND pass_admin = ''' at line 2 in /home/gojogjak/public_html/class/admin.php:17
+Stack trace:
+#0 /home/gojogjak/public_html/class/admin.php(17): mysqli_query()
+#1 /home/gojogjak/public_html/Admin/index.php(24): admin->login_admin()
+#2 {main}
+  thrown in /home/gojogjak/public_html/class/admin.php on line 17
+[26-May-2024 13:57:00 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[28-May-2024 06:42:09 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[28-May-2024 08:18:31 UTC] PHP Warning:  Undefined array key "foto" in /home/gojogjak/public_html/Admin/header.php on line 25
+[28-May-2024 08:18:31 UTC] PHP Warning:  Undefined array key "nama" in /home/gojogjak/public_html/Admin/header.php on line 30
+[29-May-2024 12:45:15 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[29-May-2024 12:54:59 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[29-May-2024 13:15:20 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24
+[30-May-2024 13:00:32 UTC] PHP Warning:  Undefined variable $level in /home/gojogjak/public_html/Admin/index.php on line 24

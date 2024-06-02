@@ -1,0 +1,1124 @@
+[24-May-2024 19:53:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:53:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:53:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:53:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:53:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:54:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:54:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:54:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:54:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:54:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:54:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:54:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:54:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:54:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:55:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:55:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:55:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:55:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:55:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:55:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:55:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:56:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:56:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:56:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:56:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:56:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:57:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:57:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:57:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:57:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:57:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:57:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:58:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:58:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:58:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:58:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:58:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:58:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:58:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:58:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:58:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:58:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:58:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:59:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:59:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:59:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:59:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:59:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:59:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 19:59:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:02:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:02:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:02:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:02:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:02:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:09:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jogja_arta'@'localhost' (using password: YES) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:09:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jogja_arta'@'localhost' (using password: YES) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:09:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jogja_arta'@'localhost' (using password: YES) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:09:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jogja_arta'@'localhost' (using password: YES) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:09:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jogja_arta'@'localhost' (using password: YES) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:09:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jogja_arta'@'localhost' (using password: YES) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:09:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jogja_arta'@'localhost' (using password: YES) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:09:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jogja_arta'@'localhost' (using password: YES) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:09:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jogja_arta'@'localhost' (using password: YES) in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:29 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:32 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:33 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:34 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:35 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:36 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:37 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:37 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:38 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:39 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:40 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:41 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:41 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:42 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:42 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:42 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:43 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:43 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:43 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:44 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:44 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:44 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:44 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:45 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:45 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:45 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:45 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:45 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:46 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:47 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:10:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogja_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:11:07 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogjak_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:11:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogjak_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:11:08 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogjak_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:11:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogjak_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:11:09 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogjak_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:11:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogjak_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:11:09 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for jogjak_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:11:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for jogjak_arta failed: Name or service not known in /home/gojogjak/public_html/class/koneksi.php:13
+Stack trace:
+#0 /home/gojogjak/public_html/class/koneksi.php(13): mysqli->__construct()
+#1 /home/gojogjak/public_html/class/wisata.php(11): database->getConnection()
+#2 /home/gojogjak/public_html/index.php(5): wisata->__construct()
+#3 {main}
+  thrown in /home/gojogjak/public_html/class/koneksi.php on line 13
+[24-May-2024 20:24:17 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 20:24:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 20:25:13 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 20:25:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:05:06 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:05:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:05:44 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:05:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:06:08 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:06:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:06:43 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:06:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:18:29 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:18:29 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:19:24 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:19:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:19:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/profil.php:88
+Stack trace:
+#0 /home/gojogjak/public_html/profil.php(88): mysqli_connect()
+#1 {main}
+  thrown in /home/gojogjak/public_html/profil.php on line 88
+[24-May-2024 22:20:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/orderlist.php:120
+Stack trace:
+#0 /home/gojogjak/public_html/orderlist.php(120): mysqli->__construct()
+#1 {main}
+  thrown in /home/gojogjak/public_html/orderlist.php on line 120
+[24-May-2024 22:20:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/orderlist.php:120
+Stack trace:
+#0 /home/gojogjak/public_html/orderlist.php(120): mysqli->__construct()
+#1 {main}
+  thrown in /home/gojogjak/public_html/orderlist.php on line 120
+[24-May-2024 22:20:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/profil.php:88
+Stack trace:
+#0 /home/gojogjak/public_html/profil.php(88): mysqli_connect()
+#1 {main}
+  thrown in /home/gojogjak/public_html/profil.php on line 88
+[24-May-2024 22:20:43 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:20:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:25:48 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:25:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:26:43 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:26:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:26:43 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:26:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:26:45 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:26:45 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:26:48 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:26:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:26:48 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:26:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:26:55 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:26:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:26:57 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:26:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:27:08 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:27:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:27:11 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:27:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:27:14 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:27:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:27:37 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:27:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:27:42 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:27:42 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:28:28 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:28:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:29:10 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:29:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:29:10 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:29:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:29:12 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:29:12 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:29:31 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:29:31 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:31:25 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:31:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:31:25 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:31:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:31:28 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:31:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:31:38 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:31:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:32:06 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:32:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:32:11 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:32:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:32:25 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:32:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:32:25 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:32:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:32:34 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:32:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:32:34 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:32:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:33:07 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:33:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:33:10 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:33:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:33:14 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:33:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:35:18 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:35:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:35:18 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:35:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:35:19 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:35:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:36:58 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:36:58 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:38:35 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:38:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:38:37 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:38:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:39:06 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:39:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:40:21 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:40:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:40:43 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:40:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:40:44 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:40:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:40:46 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:40:46 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:40:47 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:40:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:44:14 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:44:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:44:15 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:44:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:44:16 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:44:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:47:06 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:47:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:50:36 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:50:36 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:51:47 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:51:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 22:54:54 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 22:54:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 23:01:17 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 23:01:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 23:02:30 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 23:02:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 23:22:27 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 23:22:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 23:26:39 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 23:26:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 23:27:42 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 23:27:42 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 23:28:20 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 23:28:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[24-May-2024 23:51:34 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 23:51:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[25-May-2024 00:08:28 UTC] PHP Warning:  Undefined variable $kon in /home/gojogjak/public_html/profil.php on line 106
+[25-May-2024 00:08:28 UTC] PHP Warning:  Undefined variable $id_user in /home/gojogjak/public_html/profil.php on line 106
+[25-May-2024 00:08:28 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/gojogjak/public_html/profil.php:106
+Stack trace:
+#0 /home/gojogjak/public_html/profil.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/gojogjak/public_html/profil.php on line 106
+[25-May-2024 00:08:29 UTC] PHP Warning:  Undefined array key "id_user" in /home/gojogjak/public_html/orderlist.php on line 119
+[25-May-2024 00:08:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/orderlist.php:120
+Stack trace:
+#0 /home/gojogjak/public_html/orderlist.php(120): mysqli->__construct()
+#1 {main}
+  thrown in /home/gojogjak/public_html/orderlist.php on line 120
+[25-May-2024 00:08:30 UTC] PHP Warning:  Undefined variable $kon in /home/gojogjak/public_html/profil.php on line 106
+[25-May-2024 00:08:30 UTC] PHP Warning:  Undefined variable $id_user in /home/gojogjak/public_html/profil.php on line 106
+[25-May-2024 00:08:30 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/gojogjak/public_html/profil.php:106
+Stack trace:
+#0 /home/gojogjak/public_html/profil.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/gojogjak/public_html/profil.php on line 106
+[25-May-2024 00:08:35 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[25-May-2024 00:08:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[25-May-2024 00:08:45 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[25-May-2024 00:08:45 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/index.php on line 124
+[25-May-2024 00:49:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/profil.php:88
+Stack trace:
+#0 /home/gojogjak/public_html/profil.php(88): mysqli_connect()
+#1 {main}
+  thrown in /home/gojogjak/public_html/profil.php on line 88
+[25-May-2024 00:52:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/orderlist.php:120
+Stack trace:
+#0 /home/gojogjak/public_html/orderlist.php(120): mysqli->__construct()
+#1 {main}
+  thrown in /home/gojogjak/public_html/orderlist.php on line 120
+[25-May-2024 00:52:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/orderlist.php:120
+Stack trace:
+#0 /home/gojogjak/public_html/orderlist.php(120): mysqli->__construct()
+#1 {main}
+  thrown in /home/gojogjak/public_html/orderlist.php on line 120
+[25-May-2024 00:52:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/profil.php:88
+Stack trace:
+#0 /home/gojogjak/public_html/profil.php(88): mysqli_connect()
+#1 {main}
+  thrown in /home/gojogjak/public_html/profil.php on line 88
+[25-May-2024 00:54:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/profil.php:88
+Stack trace:
+#0 /home/gojogjak/public_html/profil.php(88): mysqli_connect()
+#1 {main}
+  thrown in /home/gojogjak/public_html/profil.php on line 88
+[25-May-2024 00:54:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/profil.php:88
+Stack trace:
+#0 /home/gojogjak/public_html/profil.php(88): mysqli_connect()
+#1 {main}
+  thrown in /home/gojogjak/public_html/profil.php on line 88
+[25-May-2024 00:56:44 UTC] PHP Warning:  Undefined variable $kon in /home/gojogjak/public_html/profil.php on line 106
+[25-May-2024 00:56:44 UTC] PHP Warning:  Undefined variable $id_user in /home/gojogjak/public_html/profil.php on line 106
+[25-May-2024 00:56:44 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/gojogjak/public_html/profil.php:106
+Stack trace:
+#0 /home/gojogjak/public_html/profil.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/gojogjak/public_html/profil.php on line 106
+[25-May-2024 00:57:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gojogjak_arta'@'localhost' to database 'tour' in /home/gojogjak/public_html/profil.php:89
+Stack trace:
+#0 /home/gojogjak/public_html/profil.php(89): mysqli_select_db()
+#1 {main}
+  thrown in /home/gojogjak/public_html/profil.php on line 89
+[25-May-2024 00:57:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/orderlist.php:120
+Stack trace:
+#0 /home/gojogjak/public_html/orderlist.php(120): mysqli->__construct()
+#1 {main}
+  thrown in /home/gojogjak/public_html/orderlist.php on line 120
+[25-May-2024 00:59:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gojogjak_arta'@'localhost' to database 'tour' in /home/gojogjak/public_html/profil.php:89
+Stack trace:
+#0 /home/gojogjak/public_html/profil.php(89): mysqli_select_db()
+#1 {main}
+  thrown in /home/gojogjak/public_html/profil.php on line 89
+[25-May-2024 00:59:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gojogjak_arta'@'localhost' to database 'tour' in /home/gojogjak/public_html/profil.php:89
+Stack trace:
+#0 /home/gojogjak/public_html/profil.php(89): mysqli_select_db()
+#1 {main}
+  thrown in /home/gojogjak/public_html/profil.php on line 89
+[25-May-2024 01:05:35 UTC] PHP Warning:  Undefined variable $kon in /home/gojogjak/public_html/profil.php on line 93
+[25-May-2024 01:05:35 UTC] PHP Warning:  Undefined variable $id_user in /home/gojogjak/public_html/profil.php on line 93
+[25-May-2024 01:05:35 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/gojogjak/public_html/profil.php:93
+Stack trace:
+#0 /home/gojogjak/public_html/profil.php(93): mysqli_query()
+#1 {main}
+  thrown in /home/gojogjak/public_html/profil.php on line 93
+[25-May-2024 02:05:31 UTC] PHP Warning:  Undefined array key "id_user" in /home/gojogjak/public_html/orderlist.php on line 119
+[25-May-2024 02:07:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/orderfinish.php:8
+Stack trace:
+#0 /home/gojogjak/public_html/orderfinish.php(8): mysqli->__construct()
+#1 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 8
+[25-May-2024 02:07:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/orderfinish.php:8
+Stack trace:
+#0 /home/gojogjak/public_html/orderfinish.php(8): mysqli->__construct()
+#1 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 8
+[25-May-2024 02:07:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/orderfinish.php:8
+Stack trace:
+#0 /home/gojogjak/public_html/orderfinish.php(8): mysqli->__construct()
+#1 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 8
+[25-May-2024 02:07:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/orderfinish.php:8
+Stack trace:
+#0 /home/gojogjak/public_html/orderfinish.php(8): mysqli->__construct()
+#1 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 8
+[25-May-2024 02:07:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/orderfinish.php:8
+Stack trace:
+#0 /home/gojogjak/public_html/orderfinish.php(8): mysqli->__construct()
+#1 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 8
+[25-May-2024 02:07:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gojogjak/public_html/orderfinish.php:8
+Stack trace:
+#0 /home/gojogjak/public_html/orderfinish.php(8): mysqli->__construct()
+#1 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 8
+[25-May-2024 02:08:09 UTC] PHP Warning:  require_once(/home/gojogjak/public_html./html2pdf/html2pdf.class.php/): Failed to open stream: No such file or directory in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:08:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gojogjak/public_html./html2pdf/html2pdf.class.php/' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gojogjak/public_html/orderfinish.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:08:10 UTC] PHP Warning:  require_once(/home/gojogjak/public_html./html2pdf/html2pdf.class.php/): Failed to open stream: No such file or directory in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:08:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gojogjak/public_html./html2pdf/html2pdf.class.php/' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gojogjak/public_html/orderfinish.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:08:14 UTC] PHP Warning:  require_once(/home/gojogjak/public_html./html2pdf/html2pdf.class.php/): Failed to open stream: No such file or directory in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:08:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gojogjak/public_html./html2pdf/html2pdf.class.php/' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gojogjak/public_html/orderfinish.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:09:20 UTC] PHP Warning:  require_once(/home/gojogjak/public_html./html2pdf/html2pdf.class.php/): Failed to open stream: No such file or directory in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:09:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gojogjak/public_html./html2pdf/html2pdf.class.php/' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gojogjak/public_html/orderfinish.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:10:22 UTC] PHP Warning:  require_once(/home/gojogjak/public_html./html2pdf/html2pdf.class.php/): Failed to open stream: No such file or directory in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:10:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gojogjak/public_html./html2pdf/html2pdf.class.php/' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gojogjak/public_html/orderfinish.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:07 UTC] PHP Warning:  require_once(/home/gojogjak/public_html./html2pdf/html2pdf.class.php/): Failed to open stream: No such file or directory in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gojogjak/public_html./html2pdf/html2pdf.class.php/' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gojogjak/public_html/orderfinish.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:08 UTC] PHP Warning:  require_once(/home/gojogjak/public_html./html2pdf/html2pdf.class.php/): Failed to open stream: No such file or directory in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gojogjak/public_html./html2pdf/html2pdf.class.php/' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gojogjak/public_html/orderfinish.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:09 UTC] PHP Warning:  require_once(/home/gojogjak/public_html./html2pdf/html2pdf.class.php/): Failed to open stream: No such file or directory in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gojogjak/public_html./html2pdf/html2pdf.class.php/' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gojogjak/public_html/orderfinish.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:09 UTC] PHP Warning:  require_once(/home/gojogjak/public_html./html2pdf/html2pdf.class.php/): Failed to open stream: No such file or directory in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gojogjak/public_html./html2pdf/html2pdf.class.php/' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gojogjak/public_html/orderfinish.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:10 UTC] PHP Warning:  require_once(/home/gojogjak/public_html./html2pdf/html2pdf.class.php/): Failed to open stream: No such file or directory in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gojogjak/public_html./html2pdf/html2pdf.class.php/' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gojogjak/public_html/orderfinish.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:10 UTC] PHP Warning:  require_once(/home/gojogjak/public_html./html2pdf/html2pdf.class.php/): Failed to open stream: No such file or directory in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gojogjak/public_html./html2pdf/html2pdf.class.php/' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gojogjak/public_html/orderfinish.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:10 UTC] PHP Warning:  require_once(/home/gojogjak/public_html./html2pdf/html2pdf.class.php/): Failed to open stream: No such file or directory in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gojogjak/public_html./html2pdf/html2pdf.class.php/' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gojogjak/public_html/orderfinish.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:10 UTC] PHP Warning:  require_once(/home/gojogjak/public_html./html2pdf/html2pdf.class.php/): Failed to open stream: No such file or directory in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gojogjak/public_html./html2pdf/html2pdf.class.php/' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gojogjak/public_html/orderfinish.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:10 UTC] PHP Warning:  require_once(/home/gojogjak/public_html./html2pdf/html2pdf.class.php/): Failed to open stream: No such file or directory in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gojogjak/public_html./html2pdf/html2pdf.class.php/' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gojogjak/public_html/orderfinish.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:10 UTC] PHP Warning:  require_once(/home/gojogjak/public_html./html2pdf/html2pdf.class.php/): Failed to open stream: No such file or directory in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gojogjak/public_html./html2pdf/html2pdf.class.php/' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gojogjak/public_html/orderfinish.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:11 UTC] PHP Warning:  require_once(/home/gojogjak/public_html./html2pdf/html2pdf.class.php/): Failed to open stream: No such file or directory in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gojogjak/public_html./html2pdf/html2pdf.class.php/' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gojogjak/public_html/orderfinish.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:11 UTC] PHP Warning:  require_once(/home/gojogjak/public_html./html2pdf/html2pdf.class.php/): Failed to open stream: No such file or directory in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gojogjak/public_html./html2pdf/html2pdf.class.php/' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gojogjak/public_html/orderfinish.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:14 UTC] PHP Warning:  require_once(/home/gojogjak/public_html./html2pdf/html2pdf.class.php/): Failed to open stream: No such file or directory in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gojogjak/public_html./html2pdf/html2pdf.class.php/' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gojogjak/public_html/orderfinish.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:22 UTC] PHP Warning:  require_once(/home/gojogjak/public_html./html2pdf/html2pdf.class.php/): Failed to open stream: No such file or directory in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:11:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gojogjak/public_html./html2pdf/html2pdf.class.php/' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gojogjak/public_html/orderfinish.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/orderfinish.php on line 93
+[25-May-2024 02:16:59 UTC] PHP Warning:  Undefined variable $db in /home/gojogjak/public_html/index.php on line 134
+[25-May-2024 02:16:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function tampil_data() on null in /home/gojogjak/public_html/index.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/index.php on line 134
+[25-May-2024 02:17:21 UTC] PHP Warning:  Undefined variable $db in /home/gojogjak/public_html/index.php on line 134
+[25-May-2024 02:17:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function tampil_data() on null in /home/gojogjak/public_html/index.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/index.php on line 134
+[25-May-2024 02:17:23 UTC] PHP Warning:  Undefined variable $db in /home/gojogjak/public_html/index.php on line 134
+[25-May-2024 02:17:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function tampil_data() on null in /home/gojogjak/public_html/index.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/gojogjak/public_html/index.php on line 134
+[25-May-2024 02:50:51 UTC] PHP Warning:  Undefined array key "id_user" in /home/gojogjak/public_html/orderlist.php on line 119
+[25-May-2024 02:50:57 UTC] PHP Warning:  Undefined array key "id_user" in /home/gojogjak/public_html/orderlist.php on line 119
+[25-May-2024 11:31:10 UTC] PHP Warning:  Undefined array key "jekel" in /home/gojogjak/public_html/proses.php on line 13
+[25-May-2024 11:31:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''9''' at line 1 in /home/gojogjak/public_html/class/wisata.php:45
+Stack trace:
+#0 /home/gojogjak/public_html/class/wisata.php(45): mysqli_query()
+#1 /home/gojogjak/public_html/tampilWisata.php(85): wisata->edit()
+#2 {main}
+  thrown in /home/gojogjak/public_html/class/wisata.php on line 45
+[25-May-2024 11:31:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''9''' at line 1 in /home/gojogjak/public_html/class/wisata.php:45
+Stack trace:
+#0 /home/gojogjak/public_html/class/wisata.php(45): mysqli_query()
+#1 /home/gojogjak/public_html/tampilWisata.php(85): wisata->edit()
+#2 {main}
+  thrown in /home/gojogjak/public_html/class/wisata.php on line 45
+[25-May-2024 11:35:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''9''' at line 1 in /home/gojogjak/public_html/class/penginapan.php:44
+Stack trace:
+#0 /home/gojogjak/public_html/class/penginapan.php(44): mysqli_query()
+#1 /home/gojogjak/public_html/tampilHotel.php(85): penginapan->edit()
+#2 {main}
+  thrown in /home/gojogjak/public_html/class/penginapan.php on line 44
+[29-May-2024 13:15:43 UTC] PHP Warning:  Undefined array key "id_user" in /home/gojogjak/public_html/orderlist.php on line 107
+[29-May-2024 13:15:48 UTC] PHP Warning:  Undefined array key "id_user" in /home/gojogjak/public_html/orderlist.php on line 107

@@ -1,0 +1,828 @@
+[24-May-2024 20:18:01 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 44
+[24-May-2024 20:18:01 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/cek_transaksi.php on line 62
+[24-May-2024 20:18:41 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 20:18:41 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/wisata.php on line 67
+[24-May-2024 20:18:42 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 20:18:42 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/wisata.php on line 67
+[24-May-2024 20:21:46 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 20:21:46 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/wisata.php on line 67
+[24-May-2024 20:23:28 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[24-May-2024 20:23:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[24-May-2024 20:23:30 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[24-May-2024 20:23:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/wisata.php on line 67
+[24-May-2024 20:23:33 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 44
+[24-May-2024 20:23:33 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/cek_transaksi.php on line 62
+[24-May-2024 20:23:34 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[24-May-2024 20:23:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[24-May-2024 20:24:12 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[24-May-2024 20:24:12 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[25-May-2024 00:08:51 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[25-May-2024 00:08:51 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[25-May-2024 00:08:53 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[25-May-2024 00:08:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/wisata.php on line 67
+[25-May-2024 00:08:57 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[25-May-2024 00:08:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/wisata.php on line 67
+[25-May-2024 00:09:03 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 44
+[25-May-2024 00:09:03 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/cek_transaksi.php on line 62
+[25-May-2024 00:09:03 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[25-May-2024 00:09:03 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/wisata.php on line 67
+[25-May-2024 00:23:15 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/wisata.php on line 22
+[25-May-2024 00:23:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/wisata.php on line 67
+[25-May-2024 00:47:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 00:47:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 00:47:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 00:47:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 00:47:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 00:47:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 00:47:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 00:47:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 00:47:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 00:47:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 00:47:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 00:47:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 00:47:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 00:47:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 00:47:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 00:47:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 00:47:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 00:47:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 00:47:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 00:47:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 00:47:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 00:47:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 00:47:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 00:47:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 00:47:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 00:47:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 00:48:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 00:48:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 00:48:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 00:48:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 00:48:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 00:48:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 00:48:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 00:48:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 00:48:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 00:48:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 00:48:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 00:48:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 00:48:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 00:48:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 00:48:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 00:48:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 00:48:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 00:48:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 00:48:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 00:48:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 00:48:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 00:48:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 00:48:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 00:48:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 00:48:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 00:48:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 00:48:07 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 00:48:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 00:48:07 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 00:48:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 00:48:07 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 00:48:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 00:48:07 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 00:48:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 00:48:07 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 00:48:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 00:48:07 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 00:48:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 00:48:07 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 00:48:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 00:48:07 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 00:48:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 00:48:07 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 00:48:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 00:48:07 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 00:48:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 00:48:07 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 00:48:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 00:48:07 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 00:48:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 00:48:07 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 00:48:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 00:48:11 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 00:48:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 00:48:11 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 00:48:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 00:48:11 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 00:48:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 00:48:11 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 00:48:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 00:48:11 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 00:48:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 00:48:11 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 00:48:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 00:48:11 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 00:48:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 00:48:11 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 00:48:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 00:48:11 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 00:48:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 00:48:11 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 00:48:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 00:48:11 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 00:48:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 00:48:11 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 00:48:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 00:48:11 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 00:48:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 00:48:15 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 00:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 00:48:15 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 00:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 00:48:15 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 00:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 00:48:15 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 00:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 00:48:15 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 00:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 00:48:15 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 00:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 00:48:15 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 00:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 00:48:15 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 00:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 00:48:15 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 00:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 00:48:15 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 00:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 00:48:15 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 00:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 00:48:15 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 00:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 00:48:15 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 00:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 00:48:20 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 00:48:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 00:48:20 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 00:48:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 00:48:20 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 00:48:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 00:48:20 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 00:48:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 00:48:20 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 00:48:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 00:48:20 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 00:48:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 00:48:20 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 00:48:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 00:48:20 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 00:48:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 00:48:20 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 00:48:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 00:48:20 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 00:48:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 00:48:20 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 00:48:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 00:48:20 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 00:48:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 00:48:20 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 00:48:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 00:48:24 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/user.php on line 43
+[25-May-2024 00:48:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/data_member.php on line 74
+[25-May-2024 00:48:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 00:48:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 00:48:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 00:48:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 00:48:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 00:48:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 00:48:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 00:48:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 00:48:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 00:48:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 00:48:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 00:48:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 00:48:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 00:48:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 00:48:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 00:48:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 00:48:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 00:48:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 00:48:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 00:48:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 00:48:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 00:48:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 00:48:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 00:48:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 00:48:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 00:48:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 00:49:29 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 00:49:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 00:49:29 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 00:49:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 00:49:29 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 00:49:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 00:49:29 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 00:49:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 00:49:29 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 00:49:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 00:49:29 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 00:49:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 00:49:29 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 00:49:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 00:49:29 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 00:49:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 00:49:29 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 00:49:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 00:49:29 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 00:49:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 00:49:29 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 00:49:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 00:49:29 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 00:49:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 00:49:29 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 00:49:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 00:53:15 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 44
+[25-May-2024 00:53:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/cek_transaksi.php on line 62
+[25-May-2024 01:24:14 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/penginapan.php on line 20
+[25-May-2024 01:24:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/penginapan.php on line 68
+[25-May-2024 02:33:39 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[25-May-2024 02:33:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[25-May-2024 02:34:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:34:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:34:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:34:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:34:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:34:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:34:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:34:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:34:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:34:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:34:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:34:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:34:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:34:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:34:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:34:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:34:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:34:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:34:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:34:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:34:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:34:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:34:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:34:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:34:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 02:34:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 02:34:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:34:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:34:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:34:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:34:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:34:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:34:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:34:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:34:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:34:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:34:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:34:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:34:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:34:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:34:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:34:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:34:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:34:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:34:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:34:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:34:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:34:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:34:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:34:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:34:02 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 02:34:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 02:34:04 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:34:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:34:04 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:34:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:34:04 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:34:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:34:04 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:34:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:34:04 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:34:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:34:04 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:34:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:34:04 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:34:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:34:04 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:34:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:34:04 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:34:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:34:04 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:34:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:34:04 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:34:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:34:04 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:34:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:34:04 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 02:34:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 02:34:09 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[25-May-2024 02:34:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[25-May-2024 02:34:24 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[25-May-2024 02:34:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[25-May-2024 02:34:46 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[25-May-2024 02:34:46 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[25-May-2024 02:44:22 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[25-May-2024 02:44:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[25-May-2024 02:44:28 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[25-May-2024 02:44:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[25-May-2024 02:44:38 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[25-May-2024 02:44:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[25-May-2024 02:44:59 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[25-May-2024 02:44:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[25-May-2024 02:45:30 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 44
+[25-May-2024 02:45:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/cek_transaksi.php on line 62
+[25-May-2024 02:45:35 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 44
+[25-May-2024 02:45:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/cek_transaksi.php on line 62
+[25-May-2024 02:45:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:45:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:45:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:45:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:45:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:45:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:45:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:45:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:45:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:45:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:45:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:45:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:45:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:45:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:45:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:45:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:45:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:45:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:45:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:45:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:45:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:45:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:45:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:45:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:45:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 02:45:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 02:45:48 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 44
+[25-May-2024 02:45:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/cek_transaksi.php on line 62
+[25-May-2024 02:46:04 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[25-May-2024 02:46:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[25-May-2024 02:47:47 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[25-May-2024 02:47:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[25-May-2024 02:48:40 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[25-May-2024 02:48:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[25-May-2024 02:48:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:48:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:48:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:48:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:48:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:48:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:48:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:48:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:48:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:48:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:48:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:48:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:48:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:48:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:48:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:48:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:48:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:48:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:48:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:48:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:48:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:48:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:48:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:48:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:48:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 02:48:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 02:48:54 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 44
+[25-May-2024 02:48:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/cek_transaksi.php on line 62
+[25-May-2024 02:48:55 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[25-May-2024 02:48:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[25-May-2024 02:49:20 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 44
+[25-May-2024 02:49:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/cek_transaksi.php on line 62
+[25-May-2024 02:50:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:50:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:50:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:50:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:50:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:50:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:50:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:50:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:50:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:50:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:50:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:50:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:50:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:50:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:50:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:50:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:50:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:50:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:50:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:50:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:50:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:50:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:50:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:50:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:50:00 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 02:50:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 02:54:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:54:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:54:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:54:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:54:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:54:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:54:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:54:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:54:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:54:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:54:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:54:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:54:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:54:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:54:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:54:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:54:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:54:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:54:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:54:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:54:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:54:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:54:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:54:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:54:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 02:54:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 02:54:54 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:54:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:54:54 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:54:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:54:54 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:54:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:54:54 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:54:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:54:54 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:54:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:54:54 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:54:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:54:54 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:54:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:54:54 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:54:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:54:54 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:54:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:54:54 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:54:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:54:54 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:54:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:54:54 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:54:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:54:54 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 02:54:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 02:54:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:54:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:54:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:54:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:54:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:54:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:54:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:54:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:54:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:54:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:54:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:54:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:54:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:54:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:54:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:54:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:54:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:54:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:54:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:54:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:54:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:54:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:54:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:54:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:54:57 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 02:54:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 02:55:07 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 44
+[25-May-2024 02:55:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/cek_transaksi.php on line 62
+[25-May-2024 02:55:18 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[25-May-2024 02:55:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[25-May-2024 02:55:28 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:55:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 02:55:28 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:55:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 02:55:28 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:55:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 02:55:28 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:55:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 02:55:28 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:55:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 02:55:28 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:55:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 02:55:28 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:55:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 02:55:28 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:55:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 02:55:28 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:55:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 02:55:28 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:55:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 02:55:28 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:55:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 02:55:28 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:55:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 02:55:28 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 02:55:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 08:00:25 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[25-May-2024 08:00:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[25-May-2024 08:00:40 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 44
+[25-May-2024 08:00:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/cek_transaksi.php on line 62
+[25-May-2024 08:00:40 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 44
+[25-May-2024 08:00:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/cek_transaksi.php on line 62
+[25-May-2024 08:01:06 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 44
+[25-May-2024 08:01:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/cek_transaksi.php on line 62
+[25-May-2024 08:01:06 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 44
+[25-May-2024 08:01:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/cek_transaksi.php on line 62
+[25-May-2024 08:01:08 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 08:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 08:01:08 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 08:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 08:01:08 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 08:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 08:01:08 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 08:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 08:01:08 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 08:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 08:01:08 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 08:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 08:01:08 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 08:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 08:01:08 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 08:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 08:01:08 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 08:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 08:01:08 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 08:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 08:01:08 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 08:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 08:01:08 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 08:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 08:01:08 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 08:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 08:01:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 08:01:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 08:01:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 08:01:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 08:01:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 08:01:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 08:01:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 08:01:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 08:01:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 08:01:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 08:01:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 08:01:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 08:01:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 08:01:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 08:01:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 08:01:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 08:01:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 08:01:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 08:01:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 08:01:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 08:01:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 08:01:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 08:01:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 08:01:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 08:01:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 08:01:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 08:43:48 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 08:43:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 08:43:48 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 08:43:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 08:43:48 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 08:43:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 08:43:48 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 08:43:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 08:43:48 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 08:43:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 08:43:48 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 08:43:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 08:43:48 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 08:43:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 08:43:48 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 08:43:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 08:43:48 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 08:43:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 08:43:48 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 08:43:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 08:43:48 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 08:43:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 08:43:48 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 08:43:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 08:43:48 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 08:43:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 11:37:59 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[25-May-2024 11:37:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[25-May-2024 15:00:13 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[25-May-2024 15:00:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[25-May-2024 15:00:21 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 15:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[25-May-2024 15:00:21 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 15:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[25-May-2024 15:00:21 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 15:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[25-May-2024 15:00:21 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 15:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[25-May-2024 15:00:21 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 15:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[25-May-2024 15:00:21 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 15:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[25-May-2024 15:00:21 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 15:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[25-May-2024 15:00:21 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 15:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[25-May-2024 15:00:21 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 15:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[25-May-2024 15:00:21 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 15:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[25-May-2024 15:00:21 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 15:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[25-May-2024 15:00:21 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 15:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[25-May-2024 15:00:21 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 15:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[25-May-2024 15:15:34 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 44
+[25-May-2024 15:15:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/cek_transaksi.php on line 62
+[25-May-2024 15:17:28 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 44
+[25-May-2024 15:17:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/cek_transaksi.php on line 62
+[26-May-2024 10:02:47 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[26-May-2024 10:02:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[26-May-2024 10:02:50 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 44
+[26-May-2024 10:02:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/cek_transaksi.php on line 62
+[26-May-2024 13:57:04 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[26-May-2024 13:57:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[28-May-2024 06:42:11 UTC] PHP Warning:  Undefined variable $hasil in /home/gojogjak/public_html/class/order.php on line 68
+[28-May-2024 06:42:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/gojogjak/public_html/Admin/ajax/dashboard.php on line 131
+[28-May-2024 06:43:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[28-May-2024 06:43:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[28-May-2024 06:43:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[28-May-2024 06:43:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[28-May-2024 06:43:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[28-May-2024 06:43:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[28-May-2024 06:43:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[28-May-2024 06:43:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[28-May-2024 06:43:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[28-May-2024 06:43:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[28-May-2024 06:43:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[28-May-2024 06:43:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[28-May-2024 06:43:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[28-May-2024 06:43:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[28-May-2024 06:43:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[28-May-2024 06:43:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[28-May-2024 06:43:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[28-May-2024 06:43:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[28-May-2024 06:43:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[28-May-2024 06:43:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[28-May-2024 06:43:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[28-May-2024 06:43:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[28-May-2024 06:43:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[28-May-2024 06:43:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[28-May-2024 06:43:24 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[28-May-2024 06:43:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[28-May-2024 06:43:34 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[28-May-2024 06:43:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[28-May-2024 06:43:34 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[28-May-2024 06:43:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[28-May-2024 06:43:34 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[28-May-2024 06:43:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[28-May-2024 06:43:34 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[28-May-2024 06:43:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[28-May-2024 06:43:34 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[28-May-2024 06:43:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[28-May-2024 06:43:34 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[28-May-2024 06:43:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[28-May-2024 06:43:34 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[28-May-2024 06:43:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[28-May-2024 06:43:34 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[28-May-2024 06:43:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[28-May-2024 06:43:34 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[28-May-2024 06:43:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[28-May-2024 06:43:34 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[28-May-2024 06:43:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[28-May-2024 06:43:34 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[28-May-2024 06:43:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[28-May-2024 06:43:34 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[28-May-2024 06:43:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[28-May-2024 06:43:34 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[28-May-2024 06:43:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[28-May-2024 06:43:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[28-May-2024 06:43:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[28-May-2024 06:43:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[28-May-2024 06:43:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[28-May-2024 06:43:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[28-May-2024 06:43:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[28-May-2024 06:43:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[28-May-2024 06:43:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[28-May-2024 06:43:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[28-May-2024 06:43:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[28-May-2024 06:43:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[28-May-2024 06:43:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[28-May-2024 06:43:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[28-May-2024 06:43:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[28-May-2024 06:43:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[28-May-2024 06:43:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[28-May-2024 06:43:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[28-May-2024 06:43:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[28-May-2024 06:43:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[28-May-2024 06:43:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[28-May-2024 06:43:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[28-May-2024 06:43:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[28-May-2024 06:43:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[28-May-2024 06:43:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[28-May-2024 06:43:43 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[28-May-2024 06:43:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[28-May-2024 06:43:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[28-May-2024 06:43:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[28-May-2024 06:43:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[28-May-2024 06:43:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[28-May-2024 06:43:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[28-May-2024 06:43:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[28-May-2024 06:43:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[28-May-2024 06:43:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[28-May-2024 06:43:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[28-May-2024 06:43:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[28-May-2024 06:43:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[28-May-2024 06:43:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[28-May-2024 06:43:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[28-May-2024 06:43:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[28-May-2024 06:43:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[28-May-2024 06:43:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[28-May-2024 06:43:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[28-May-2024 06:43:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[28-May-2024 06:43:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[28-May-2024 06:43:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[28-May-2024 06:43:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[28-May-2024 06:43:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[28-May-2024 06:43:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[28-May-2024 06:43:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[28-May-2024 06:43:49 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[28-May-2024 06:43:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[28-May-2024 06:44:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[28-May-2024 06:44:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[28-May-2024 06:44:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[28-May-2024 06:44:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[28-May-2024 06:44:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[28-May-2024 06:44:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[28-May-2024 06:44:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[28-May-2024 06:44:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[28-May-2024 06:44:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[28-May-2024 06:44:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[28-May-2024 06:44:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[28-May-2024 06:44:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[28-May-2024 06:44:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[28-May-2024 06:44:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[28-May-2024 06:44:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[28-May-2024 06:44:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[28-May-2024 06:44:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[28-May-2024 06:44:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[28-May-2024 06:44:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[28-May-2024 06:44:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[28-May-2024 06:44:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[28-May-2024 06:44:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[28-May-2024 06:44:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[28-May-2024 06:44:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[28-May-2024 06:44:09 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[28-May-2024 06:44:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[30-May-2024 13:10:56 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[30-May-2024 13:10:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 35
+[30-May-2024 13:10:56 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[30-May-2024 13:10:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 36
+[30-May-2024 13:10:56 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[30-May-2024 13:10:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 43
+[30-May-2024 13:10:56 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[30-May-2024 13:10:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 49
+[30-May-2024 13:10:56 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[30-May-2024 13:10:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 55
+[30-May-2024 13:10:56 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[30-May-2024 13:10:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 61
+[30-May-2024 13:10:56 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[30-May-2024 13:10:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 68
+[30-May-2024 13:10:56 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[30-May-2024 13:10:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 74
+[30-May-2024 13:10:56 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[30-May-2024 13:10:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 80
+[30-May-2024 13:10:56 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[30-May-2024 13:10:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 86
+[30-May-2024 13:10:56 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[30-May-2024 13:10:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 94
+[30-May-2024 13:10:56 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[30-May-2024 13:10:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 95
+[30-May-2024 13:10:56 UTC] PHP Warning:  Undefined variable $d in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
+[30-May-2024 13:10:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gojogjak/public_html/Admin/modal/modal_edit_user.php on line 102
