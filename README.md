@@ -4,5 +4,5 @@
 2. Run
 
 # Interface Website
-![Beranda](url_gambar)
+![Beranda](./images/beranda.png)
 
