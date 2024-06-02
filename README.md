@@ -1,4 +1,2 @@
-# Aplikasi-Biro-Travel
-adalah aplikai info wisata dan pemesanan paket wisata.
+# Travel App Yogyakarta
 
-impor database kemudian sesuaikan file koneksi database.
