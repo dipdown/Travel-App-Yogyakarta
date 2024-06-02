@@ -5,4 +5,6 @@
 
 # Interface Website
 ![Beranda](./images/beranda.png)
-
+![List Wisata](./images/image.png)
+![Rekomendasi Hotel](./images/rekomendasi.png)
+![Login](./images/login.png)
